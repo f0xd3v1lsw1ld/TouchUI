@@ -1,16 +1,15 @@
 ; list of packages
 ; this file contains all manifests
 
-[clock]
-name: Clock
+[radio]
+name: Radio
 category: Tools
 icon: icon.png
-desc: A simple clock app
-exec: clock.py
+desc: A simple radio app
+exec: radio.py
 managed: yes
-uuid: 4fdef96d-4a27-4209-85c6-7786110d9f2f
-version: 1.0
-firmware: 0.9
+uuid: D240C221-337B-4274-8BFF-017D1D1B7B59
+version: 0.1
 
 [calc]
 name: Calc
@@ -31,5 +30,16 @@ desc: QT Widgets gallery
 exec: widgetgallery.py
 managed: yes
 uuid: 94cac4ea-14ef-49a2-a000-20ca5720fb78
+version: 1.0
+firmware: 0.9
+
+[clock]
+name: Clock
+category: Tools
+icon: icon.png
+desc: A simple clock app
+exec: clock.py
+managed: yes
+uuid: 4fdef96d-4a27-4209-85c6-7786110d9f2f
 version: 1.0
 firmware: 0.9

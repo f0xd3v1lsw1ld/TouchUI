@@ -1,0 +1,9 @@
+[app]
+name: Radio
+category: Tools
+icon: icon.png
+desc: A simple radio app
+exec: radio.py
+managed: yes
+uuid: D240C221-337B-4274-8BFF-017D1D1B7B59
+version: 0.1
