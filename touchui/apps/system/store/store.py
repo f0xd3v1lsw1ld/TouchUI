@@ -9,7 +9,7 @@ from PyQt4.QtNetwork import *
 from TouchStyle import *
 
 # url of the "app store"
-URL = "https://raw.githubusercontent.com/harbaum/TouchUI/master/appstore/packages/"
+URL = "https://raw.githubusercontent.com/f0xd3v1lsw1ld/TouchUI/master/appstore/packages/"
 PACKAGEFILE = "00packages"
 
 # directory were the user installed apps are located
