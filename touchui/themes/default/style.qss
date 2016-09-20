@@ -474,3 +474,8 @@ QSlider::handle:horizontal {
     background: #fcce04;
     margin: -8px 0; /* expand outside the groove */
 }
+
+QWebView{
+     background-color: rgba(0,0,0,0);
+     alternate-background-color: rgba(0,0,0,16);
+}
