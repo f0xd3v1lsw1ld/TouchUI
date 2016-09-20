@@ -92,3 +92,5 @@ ENV/
 
 #custom
 touchui/apps/user/
+.idea/
+
